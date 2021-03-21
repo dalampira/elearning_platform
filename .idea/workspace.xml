@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98912cd1-6c17-47fe-bc35-42d78e27d454" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1ltSlM6DIOnctrpOiLqd7FFpmh8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SQL&#10;MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PhpstormProjects\2744partB" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PhpstormProjects\2744partB" />
+      <recent name="C:\Users\user\PhpstormProjects\2744partB\config" />
+      <recent name="C:\Users\user\PhpstormProjects\2744partB\delete" />
+      <recent name="C:\Users\user\PhpstormProjects\2744partB\edit" />
+      <recent name="C:\Users\user\PhpstormProjects\2744partB\add" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="config.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2744partB/config.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.config.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98912cd1-6c17-47fe-bc35-42d78e27d454" name="Default Changelist" comment="" />
+      <created>1608415043768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608415043768</updated>
+      <workItem from="1608415044993" duration="1372000" />
+      <workItem from="1608416584032" duration="1534000" />
+      <workItem from="1608452129845" duration="18425000" />
+      <workItem from="1608560791960" duration="12752000" />
+      <workItem from="1608730327898" duration="1189000" />
+      <workItem from="1608744249845" duration="11878000" />
+      <workItem from="1608808289612" duration="10174000" />
+      <workItem from="1608829832208" duration="8902000" />
+      <workItem from="1608891573154" duration="8728000" />
+      <workItem from="1608973771116" duration="722000" />
+      <workItem from="1608979702007" duration="3839000" />
+      <workItem from="1608993199821" duration="602000" />
+      <workItem from="1608998183515" duration="1336000" />
+      <workItem from="1608999568101" duration="355000" />
+      <workItem from="1608999957224" duration="11191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

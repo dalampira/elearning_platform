@@ -1,0 +1,92 @@
+
+/* MAIN ELEMENTS */
+
+html{
+    height: 100%;
+    overflow-y: scroll;
+}
+
+body {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 2% 5% 2% 5%;
+    margin: 0;
+    border: thin steelblue;
+    position:relative;
+}
+.header{
+    width: available;
+    background-color: #5c5cd6;
+    height: 2rem;
+    padding: 3% 3% 3% 3%;
+}
+h1 {
+    text-align: center;
+}
+
+.nav {
+    text-align: left;
+    background-color: #adadeb;
+    float: left;
+}
+
+.top{
+    float: right;
+    font-size: 1.2rem;
+    height: 3rem;
+}
+.mainBody{
+    text-align: left;
+    font-size: 1.2rem;
+    margin-left: 20rem;
+}
+img{
+    width: 10rem;
+    height: 10rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul li {
+    display:block;
+    font-weight: bold;
+    font-size: 1.4rem;
+    padding: 0 1.2rem;
+    height: 3rem;
+}
+.visited{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+}
+
+a:focus {
+    background-color: #3333cc;
+}
+
+.form{
+    margin-bottom: 2rem;
+    display: flex;
+}
+.bold{
+    font-weight: bold;
+}
+.red {
+    color: #dd2d00;
+}
+.homs {
+    font-style: italic;
+    font-size: 1rem;
+}
+
+.login {
+    width: 100%;
+    text-align: center;
+}
+.login h1{
+    font-size: 3rem;
+}
